@@ -101,6 +101,7 @@ Table of Contents
    * [Find &amp; Replace Characters in a String](#find--replace-characters-in-a-string)
    * [Traversing a String](#traversing-a-string)
 * [List](#list)
+* [Lambda_Function](#Lambda_function)
    * [What is a Python List? How to Create a List?](#what-is-a-python-list-how-to-create-a-list)
    * [Accessing Items of a List](#accessing-items-of-a-list)
       * [Negative Indexing](#negative-indexing)
